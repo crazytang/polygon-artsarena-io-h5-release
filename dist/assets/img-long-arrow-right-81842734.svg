@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="583.981527px" height="36.7695526px" viewBox="0 0 583.981527 36.7695526" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>形状结合备份 5</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="19.1053377%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#BBF74C" offset="0%"></stop>
+            <stop stop-color="#BBF74C" stop-opacity="0.181349214" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.406401521">
+        <g id="6备份" transform="translate(0.000000, -0.255915)" fill="url(#linearGradient-1)" stroke="#BBF74C" stroke-width="0.4">
+            <path d="M565.59675,0.53875783 L583.698684,18.6406914 L565.59675,36.742625 L561.636946,32.7828206 L572.987812,21.430915 L0.2,21.431081 L0.2,15.831081 L572.968828,15.830915 L561.636949,4.49855878 L565.59675,0.53875783 Z" id="形状结合备份-5"></path>
+        </g>
+    </g>
+</svg>
